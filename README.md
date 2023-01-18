@@ -24,3 +24,5 @@ dataディレクトリのoriginalに猫の画像が入っています。
   <img src="./data/output/test.jpg" />
 </p>
 
+##使い方
+同一のディレクトリに、model.ptをダウンロードしてください。
